@@ -41,7 +41,7 @@ It will also add to the application.js file the appropriate requires.
 
 angular-rails provides a simple generator to help get you started using angular.js with rails 3.1.  The generators will only create client side code (javascript).
 
-So far we have a controller generator which generates a controller file if you rum
+So far we have a controller generator which generates a controller file if you run
 
     rails g angular:controller MODELNAME
 
